@@ -7,7 +7,7 @@ First thing you have to do (after you unzip it) is, take the application folder 
 
 Open Xampp and 'start' Apache.
 
-Open up any Web browser and enter 'localhost' into the address box. The browser will open a list of files stored under the 'htdocs' folder on your computer. Click on the name of the application's folder (web-assignment2) to open and run it.
+Open up any Web browser and enter 'localhost' into the address box. The browser will open a list of files stored under the 'htdocs' folder on your computer. Click on the name of the application's folder to open and run it.
 
 
 ## How to use the application?
